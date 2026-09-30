@@ -1,0 +1,2 @@
+# premium-harp-frame-001-lever-harp-pillar-stress-calcu
+Guessing at pillar stress in your lever harp design is costing you time, materials, and potentially structural integrity. The Lever Harp Pillar Stress Calculator eliminates the guesswork with precision calculations built directly into Notion.  This template transforms complex engineering math into simple input-output calculations, letting you insta
